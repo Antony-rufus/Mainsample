@@ -5,4 +5,6 @@ Learning About Smartgit.
 
 Doing some basic things with smartgit.
 
-Leaving blank lines
+Leaving blank lines.
+
+Doing changes in master branch.
