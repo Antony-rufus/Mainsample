@@ -1,4 +1,8 @@
 # Mainsample
-Sample Excersice
+Sample Excersice.
+
 Learning About Smartgit.
-Doing some basic things with smartgit
+
+Doing some basic things with smartgit.
+
+Leaving blank lines
